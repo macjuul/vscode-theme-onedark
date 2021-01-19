@@ -1,3 +1,6 @@
+## ❗ Fork of Atom One Dark
+Since comments were hard for me to read I've brightened them up and disabled italics.
+
 # Atom One Dark Theme
 
 [![Marketplace](https://vsmarketplacebadge.apphb.com/version/akamud.vscode-theme-onedark.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark) [![Installs](https://vsmarketplacebadge.apphb.com/installs/akamud.vscode-theme-onedark.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/akamud.vscode-theme-onedark.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark)
